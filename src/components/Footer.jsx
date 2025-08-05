@@ -9,10 +9,6 @@ const Footer = () => {
           <span className="text-sm text-gray-600">Not on API</span>
         </div>
         <div className="flex items-center gap-2">
-          <div className="w-2 h-2 bg-yellow-500 rounded-full"></div>
-          <span className="text-sm text-gray-600">Built with Claude</span>
-        </div>
-        <div className="flex items-center gap-2">
           <div className="w-4 h-4 text-gray-400">⚙️</div>
           <span className="text-sm text-gray-600">Settings</span>
         </div>

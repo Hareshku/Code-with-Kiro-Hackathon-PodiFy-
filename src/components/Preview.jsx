@@ -16,7 +16,7 @@ const Preview = () => {
 
         <div className="p-16 text-center mt-6">
           <svg
-            className="w-12 h-12 mx-auto mb-4 text-blue-500"
+            className="w-12 h-12 mx-auto mb-4 text-gray-400"
             viewBox="0 0 24 24"
             fill="currentColor"
           >
